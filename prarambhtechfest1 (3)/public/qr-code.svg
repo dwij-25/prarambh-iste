@@ -1,0 +1,80 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- QR Code Background -->
+  <rect width="200" height="200" fill="black" />
+  
+  <!-- Stylized QR Code (simplified representation) -->
+  <g fill="#9D4EDD">
+    <!-- Corner squares -->
+    <rect x="20" y="20" width="30" height="30" rx="5" />
+    <rect x="150" y="20" width="30" height="30" rx="5" />
+    <rect x="20" y="150" width="30" height="30" rx="5" />
+    
+    <!-- QR Code dots pattern (simplified) -->
+    <circle cx="40" cy="70" r="5" />
+    <circle cx="50" cy="70" r="5" />
+    <circle cx="60" cy="70" r="5" />
+    <circle cx="70" cy="70" r="5" />
+    <circle cx="80" cy="70" r="5" />
+    <circle cx="90" cy="70" r="5" />
+    <circle cx="100" cy="70" r="5" />
+    <circle cx="110" cy="70" r="5" />
+    <circle cx="120" cy="70" r="5" />
+    <circle cx="130" cy="70" r="5" />
+    <circle cx="140" cy="70" r="5" />
+    <circle cx="150" cy="70" r="5" />
+    
+    <circle cx="40" cy="80" r="5" />
+    <circle cx="60" cy="80" r="5" />
+    <circle cx="80" cy="80" r="5" />
+    <circle cx="100" cy="80" r="5" />
+    <circle cx="120" cy="80" r="5" />
+    <circle cx="140" cy="80" r="5" />
+    <circle cx="160" cy="80" r="5" />
+    
+    <circle cx="40" cy="90" r="5" />
+    <circle cx="50" cy="90" r="5" />
+    <circle cx="70" cy="90" r="5" />
+    <circle cx="90" cy="90" r="5" />
+    <circle cx="110" cy="90" r="5" />
+    <circle cx="130" cy="90" r="5" />
+    <circle cx="150" cy="90" r="5" />
+    
+    <circle cx="40" cy="100" r="5" />
+    <circle cx="60" cy="100" r="5" />
+    <circle cx="80" cy="100" r="5" />
+    <circle cx="100" cy="100" r="5" />
+    <circle cx="120" cy="100" r="5" />
+    <circle cx="140" cy="100" r="5" />
+    
+    <circle cx="40" cy="110" r="5" />
+    <circle cx="50" cy="110" r="5" />
+    <circle cx="70" cy="110" r="5" />
+    <circle cx="90" cy="110" r="5" />
+    <circle cx="110" cy="110" r="5" />
+    <circle cx="130" cy="110" r="5" />
+    <circle cx="150" cy="110" r="5" />
+    
+    <circle cx="40" cy="120" r="5" />
+    <circle cx="60" cy="120" r="5" />
+    <circle cx="80" cy="120" r="5" />
+    <circle cx="100" cy="120" r="5" />
+    <circle cx="120" cy="120" r="5" />
+    <circle cx="140" cy="120" r="5" />
+    <circle cx="160" cy="120" r="5" />
+    
+    <circle cx="40" cy="130" r="5" />
+    <circle cx="50" cy="130" r="5" />
+    <circle cx="60" cy="130" r="5" />
+    <circle cx="70" cy="130" r="5" />
+    <circle cx="80" cy="130" r="5" />
+    <circle cx="90" cy="130" r="5" />
+    <circle cx="100" cy="130" r="5" />
+    <circle cx="110" cy="130" r="5" />
+    <circle cx="120" cy="130" r="5" />
+    <circle cx="130" cy="130" r="5" />
+    <circle cx="140" cy="130" r="5" />
+    <circle cx="150" cy="130" r="5" />
+    <circle cx="160" cy="130" r="5" />
+  </g>
+</svg>
+

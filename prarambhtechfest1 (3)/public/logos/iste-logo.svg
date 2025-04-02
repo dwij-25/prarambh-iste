@@ -1,0 +1,26 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue circle background -->
+  <circle cx="100" cy="100" r="95" fill="#000066" />
+  
+  <!-- White outer ring with text -->
+  <circle cx="100" cy="100" r="85" fill="white" />
+  <circle cx="100" cy="100" r="75" fill="#000066" />
+  
+  <!-- Text around the circle -->
+  <path id="textPath" d="M100,25 a75,75 0 1,1 -0.1,0" fill="none" />
+  <text font-family="Arial" font-size="10" font-weight="bold" fill="#000066">
+    <textPath href="#textPath" startOffset="0%">INDIAN SOCIETY FOR TECHNICAL EDUCATION</textPath>
+  </text>
+  
+  <!-- Inner circles with symbols -->
+  <circle cx="100" cy="70" r="20" fill="white" />
+  <text x="100" y="75" font-family="Arial" font-size="14" font-weight="bold" fill="#000066" text-anchor="middle">ISTE</text>
+  
+  <circle cx="70" cy="120" r="20" fill="white" />
+  <path d="M70,110 L70,130 M65,115 L75,125" stroke="#000066" stroke-width="2" />
+  
+  <circle cx="130" cy="120" r="20" fill="white" />
+  <circle cx="130" cy="120" r="12" fill="none" stroke="#000066" stroke-width="2" />
+  <path d="M124,120 L136,120 M130,114 L130,126" stroke="#000066" stroke-width="2" />
+</svg>
+
